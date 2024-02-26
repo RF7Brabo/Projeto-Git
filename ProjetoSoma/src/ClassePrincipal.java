@@ -7,7 +7,7 @@ public class ClassePrincipal {
 		 int y = 7;
 		 
 		 System.out.println(x+y);
-		 
 		 System.out.println(x-y);
+		 System.out.println(x*y);
 	 }
 }
